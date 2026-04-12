@@ -145,7 +145,7 @@ mouse-hide-while-typing = true
 gtk-toolbar-style = flat
 gtk-wide-tabs = false
 gtk-titlebar = true
-gtk-titlebar-hide-when-maximized = true
+gtk-titlebar-hide-when-maximized = false
 macos-non-native-fullscreen = visible-menu
 
 # macOS 标题栏样式：tabs 使用标签页式样
