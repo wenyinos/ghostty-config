@@ -143,22 +143,9 @@ mouse-hide-while-typing = true
 # GTK 工具栏样式：flat 为扁平样式
 # GTK toolbar style: flat is flat style
 gtk-toolbar-style = flat
-
-# 禁用宽标签（减少标签页宽度）
-# Disable wide tabs (reduce tab width)
 gtk-wide-tabs = false
-
-# 启用 GTK 标题栏 / Enable GTK title bar
 gtk-titlebar = true
-
-# 窗口最大化时隐藏标题栏
-# Hide title bar when window is maximized
-gtk-titlebar-hide-when-maximized = false
-
-# ===== macOS 设置 / macOS Settings =====
-
-# 非原生全屏模式：visible-menu 保持菜单栏可见
-# Non-native fullscreen mode: visible-menu keeps menu bar visible
+gtk-titlebar-hide-when-maximized = true
 macos-non-native-fullscreen = visible-menu
 
 # macOS 标题栏样式：tabs 使用标签页式样
